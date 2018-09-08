@@ -56,7 +56,7 @@ Install Instructions:
 [https://beam.apache.org/get-started/quickstart-py/](https://beam.apache.org/get-started/quickstart-py/)
 [https://stackoverflow.com/questions/49047778/airflow-installation-failure-beamgcp](https://stackoverflow.com/questions/49047778/airflow-installation-failure-beamgcp)
 
-Environment: python 2.6 - use virtual environment exacrtly as stated in install instructions (see above)
+Environment: python 2.6 - use virtual environment exactly as stated in install instructions (see above)
 
 
 ### Adding Tracking
