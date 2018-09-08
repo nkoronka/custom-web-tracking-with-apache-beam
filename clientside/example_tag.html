@@ -1,0 +1,20 @@
+
+// Tagged in GTM like so:
+//<script type="text/javascript">
+  ga(function() { // required to ensure tracker exists - currently library relies on GA tracker, a dependency that could be easily removed
+    function tracking(){
+      trackEvent('{GA Tracking ID}', 'page') // currently GA is required to be running, see above
+    }
+
+    if (typeof trackEvent != 'function') {
+      var url = '{hosted-location-oftracker.js}/tracker.js'
+      var webTracker = document.createElement('script')
+      webTracker.src = url
+      webTracker.onload = tracking
+      webTracker.async = 'async'
+      document.head.appendChild(webTracker)
+    } else {
+      tracking()
+    }
+  })
+//</script>
