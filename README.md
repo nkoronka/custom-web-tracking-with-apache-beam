@@ -1,5 +1,9 @@
 # Configuring and running
 
+## High Level View of Tracking Solution
+
+![High Level View of Tracking Solution](https://github.com/nkoronka/custom-web-tracking-with-apache-beam/high-level-solution.png)
+
 ## Setup Steps
 
 ### GCP Authentication
