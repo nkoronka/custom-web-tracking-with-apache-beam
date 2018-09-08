@@ -2,7 +2,7 @@
 
 ## High Level View of Tracking Solution
 
-![High Level View of Tracking Solution](https://github.com/nkoronka/custom-web-tracking-with-apache-beam/high-level-solution.png)
+![High Level View of Tracking Solution](https://github.com/nkoronka/custom-web-tracking-with-apache-beam/blob/master/high-level-solution.png?raw=true)
 
 ## Setup Steps
 
