@@ -8,7 +8,7 @@ authenticates with pub/sub to pass messages on.
 
 Setup services on GCP and configure all {variables below}
 
-See git for further details
+See git for further details [https://github.com/nkoronka/custom-web-tracking-with-apache-beam](https://github.com/nkoronka/custom-web-tracking-with-apache-beam)
 
 author: Nick Koronka
 email: nick.koronka@gmail.com

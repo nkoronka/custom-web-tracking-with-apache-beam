@@ -1,6 +1,11 @@
 /*<![CDATA[*/
 
-/* Base code for custom web tracking. trackEvent() used to send messages to microservice component */
+/* 
+	Base code for custom web tracking. trackEvent() used to send messages to microservice component ]]
+	See more info on Git: https://github.com/nkoronka/custom-web-tracking-with-apache-beam
+	author: Nick Koronka
+	email: nick.koronka@gmail.com
+*/
 
 /* global sessionExpiry */
 var sessionExpiry = 1800

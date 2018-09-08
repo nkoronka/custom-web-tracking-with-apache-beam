@@ -19,17 +19,17 @@ Further info: [https://cloud.google.com/pubsub/docs/](https://cloud.google.com/p
 
 Create table named beamed_hits in US region with following schema:
 
-  id - STRING
-  cid - STRING
-  eventType - STRING
-  timestamp - TIMESTAMP
-  visitId - STRING
-  hostname - STRING
-  url - STRING
-  path - STRING
-  request_url - STRING
-  request_querystring - STRING
-  firstVisitStartTime - STRING
+  id - STRING<br/>
+  cid - STRING<br/>
+  eventType - STRING<br/>
+  timestamp - TIMESTAMP<br/>
+  visitId - STRING<br/>
+  hostname - STRING<br/>
+  url - STRING<br/>
+  path - STRING<br/>
+  request_url - STRING<br/>
+  request_querystring - STRING<br/>
+  firstVisitStartTime - STRING<br/>
 
 Add dataset and table id references in pipeline code
 
