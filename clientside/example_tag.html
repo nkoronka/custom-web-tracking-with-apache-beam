@@ -1,6 +1,5 @@
-
-// Tagged in GTM like so:
-//<script type="text/javascript">
+<!-- Example of tagging in GTM. You can use triggers and variables in the normal way -->
+<script type="text/javascript">
   ga(function() { // required to ensure tracker exists - currently library relies on GA tracker, a dependency that could be easily removed
     function tracking(){
       trackEvent('{GA Tracking ID}', 'page') // currently GA is required to be running, see above
@@ -17,4 +16,4 @@
       tracking()
     }
   })
-//</script>
+</script>
