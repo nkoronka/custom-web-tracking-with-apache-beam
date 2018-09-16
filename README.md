@@ -2,7 +2,7 @@
 
 This project is a working prototype for a scalable tracking system landing data into BigQuery with full control over the data model and no payload or hit count limitations.<br/><br/>
 
-For further information see ![slides](https://docs.google.com/presentation/d/1CNwJ5Xg8dDTsVH6_CyLoAly3bjMKO6iuATM2QhaOqxc/)<br/>
+For further information see [slides](https://docs.google.com/presentation/d/1CNwJ5Xg8dDTsVH6_CyLoAly3bjMKO6iuATM2QhaOqxc/)<br/>
 
 
 # Configuring and running
